@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://www.ensae.fr/sites/default/files/Groupe%2012.png" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://crest.science/wp-content/uploads/2020/06/Logo-Crest-color.png" width="150" />
 </p>
 
