@@ -1,7 +1,7 @@
 # Computational Social Science (CSS) Bootcamp
 
 <p align="center">
-  <img src="img/crest_color_logo.png" width="200" />
+  <img src="https://www.ensae.fr/sites/default/files/Groupe%2012.png" width="200" />
   <img src="https://crest.science/wp-content/uploads/2020/06/Logo-Crest-color.png" width="150" />
 </p>
 
